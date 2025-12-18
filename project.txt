@@ -1,0 +1,17 @@
+Shell code:
+cat file1.txt > file2.txt
+
+What will it do?
+It will copy the data from the input file to the output file.
+
+How?
+Maybe by someting like this:
+copycat if="file1.txt" of="file2.txt"
+
+Features?
+[*] Input file
+[*] Output file
+[*] Multiple files
+ -- [*] Input
+ -- [*] Output
+[] Particular lines
