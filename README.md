@@ -95,6 +95,14 @@ $ copycat if=file1.txt if=file2.txt of=out1.txt of=out2.txt
 
 All output files receive the same concatenated content.
 
+### Options
+```
+- if  (input file(s))    Give the program file source(s).
+- of  (output file(s))   Give the program output destination(s).
+- -h, --help             Display this help message.
+- -v, --verbose          Show detailed progress information.
+```
+
 ---
 
 ## 🧠 Design Notes
