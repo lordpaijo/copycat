@@ -123,7 +123,7 @@ This project exists to:
 
 ## 📜 License
 
-MIT License
+See [MIT License](https://github.com/lordpaijo/copycat/blob/main/LICENSE).
 
 ---
 
