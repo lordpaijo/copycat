@@ -51,6 +51,8 @@ The resulting binary will be located at:
 $ build/copycat
 ```
 
+---
+
 ## ⬇️ Installing
 
 From your build/ directory:
