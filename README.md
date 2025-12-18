@@ -51,6 +51,18 @@ The resulting binary will be located at:
 $ build/copycat
 ```
 
+## ⬇️ Installing
+
+From your build/ directory:
+```sh
+$ make install
+```
+
+If installing system-wide:
+```sh
+$ sudo make install
+```
+
 ---
 
 ## ▶️ Usage

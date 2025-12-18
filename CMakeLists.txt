@@ -8,3 +8,7 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 add_executable(copycat
     src/main.c
 )
+
+install(TARGETS copycat
+    RUNTIME DESTINATION bin
+)
